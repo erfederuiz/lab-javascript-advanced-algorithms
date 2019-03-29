@@ -31,6 +31,7 @@ class StackDataStructure  {
   }
 }
 
+var foo = 0;
 var stack = new StackDataStructure();
 
 
